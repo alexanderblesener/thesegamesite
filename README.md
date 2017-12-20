@@ -22,7 +22,7 @@ IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 </p>
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
-<body><a href="Bluba.htm"><img border="5" alt="Bluba" src ="png\sprite3.png" width="150" height ="120"></a>
+<body><a href="thesegamesite/Bluba.htm"><img border="5" alt="Bluba" src ="png\sprite3.png" width="150" height ="120"></a>
 <hr><p>
 
 </body>
