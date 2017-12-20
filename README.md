@@ -9,7 +9,7 @@
 <style> .vl {border-right: 22px solid black; height:1200px;}</style>
 <div class="vl">
 <body background="backgroundgrey.png">
-</a>
+
 <p><h1><big><big><font face="PALATINO" color="black">&emsp;&emsp;THESE GAMES</font></big></big></h1>
 
 <p>
@@ -20,7 +20,6 @@
 IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 </fieldset>
 <p>
-</p>
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
 <body><a href="thesegamesite/Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
