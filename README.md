@@ -1,7 +1,8 @@
 <!DOCTYPE html>
 <html lang = "en-us">
 
-<head><title>THESEGAMES</title></head><small>copyright</small>
+<head><link rel="stylesheet" type = "text/css" href = "BG.css">
+    <title>THESEGAMES</title></head><small>copyright</small>
 <img src="" alt="" style="float:right;width:120px;height:120px;">
 <body>
     <script type="text/javascript" src="index.js"></script>
