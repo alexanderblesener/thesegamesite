@@ -31,7 +31,7 @@ IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 <body><a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
 </body> <head><link rel = "stylesheet" type = "text/css" href="BG.css">
 </head><hr>
-<h2>Space Fighter</h2><body><a href="SPFTR.htm">
+<h2>Space Fighter</h2><body><a href="Spacefighter.htm">
 <img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
 <body>
     <p></p><big><font face = "ARIAL" ><p></p><h1>COMING SOON</h1></big><p>CaveSearcher<p>
