@@ -9,8 +9,8 @@
 <style> .vl {border-right: 22px solid black; height:1200px;}</style>
 <div class="vl">
 <body background="backgroundgrey.png">
-
-<p><h1><big><big><font face="PALATINO" color="black">&emsp;&emsp;THESE GAMES</font></big></big></h1>
+    </a>
+<p><h1><big><big><font face="PALATINO" color="black">&emsp;&emsp;THESE GAMES</font></big></big></h1></p>
 
 <p>
 <style> .hl {border-left:1330px solid black; height: 22px;}</style><div class="hl"></div>
