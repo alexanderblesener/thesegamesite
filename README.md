@@ -23,21 +23,21 @@ IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 </p>
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
-<body><a href="Bluba.htm"><img border="5" alt="Bluba" src ="png\sprite3.png" width="150" height ="120"></a>
+<body><a href="Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
 <hr><p>
 
 </body>
 <h2>Pinball1</h2></p>
-<body><a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="png\flipper.png" width="150" height="120"></a>
-</body> <head><link rel = "stylesheet" type = "text/css" href="index.css">
+<body><a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
+</body> <head><link rel = "stylesheet" type = "text/css" href="BG.css">
 </head><hr>
 <h2>Space Fighter</h2><body><a href="SPFTR.htm">
-<img border="5" alt = "spacefighter" src="png\spacefighter.png" width="150" height = "120"></a></body>
+<img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
 <body>
     <p></p><big><font face = "ARIAL" ><p></p><h1>COMING SOON</h1></big><p>CaveSearcher<p>
 Pinballversion2</div></p></p>
 <p></p><hr><center><big><h1>SHORT STORIES</h1></big></center><body><center>
-<a href="shortstory1.htm"><img border="2" alt="shortstory1" src ="png\shortstory1.png" width="800" height ="120"></a></center>
+<a href="shortstory1.htm"><img border="2" alt="shortstory1" src ="shortstory1.png" width="800" height ="120"></a></center>
 </body></body><p></p><body><p></p><hr>
     </body>
 
