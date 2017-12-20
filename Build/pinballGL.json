@@ -1,0 +1,11 @@
+{
+"TOTAL_MEMORY": 157286400,
+"dataUrl": "pinballGL.data.unityweb",
+"asmCodeUrl": "pinballGL.asm.code.unityweb",
+"asmMemoryUrl": "pinballGL.asm.memory.unityweb",
+"asmFrameworkUrl": "pinballGL.asm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
