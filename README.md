@@ -1,17 +1,17 @@
-<!DOCTYPE html>
+
 <html lang = "en-us">
 
-<head><link rel="stylesheet" type = "text/css" href = "BG.css">
+<head>
     <title>THESEGAMES</title></head><small>copyright</small>
 <img src="" alt="" style="float:right;width:120px;height:120px;">
 <body>
-   
+    
 <style> .vl {border-right: 22px solid black; height:1200px;}</style>
 <div class="vl">
 <body background="backgroundgrey.png">
-    </a>
-<p><h1><big><big><font face="PALATINO" color="black">&emsp;&emsp;THESE GAMES</font></big></big></h1></p>
-
+    
+<p><h1><big><big><font face="PALATINO" color="black">&emsp;&emsp;THESE GAMES</font></big></big></h1>
+</p>
 <p>
 <style> .hl {border-left:1330px solid black; height: 22px;}</style><div class="hl"></div>
 <font face="GEORGIA" color="black">&emsp;Development & Creation for your personal enjoyment through UnityEngine. 
@@ -20,18 +20,17 @@
 IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 </fieldset>
 <p>
-</p>
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
-<body><a href="Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
+<body><a href="thesegamesite/Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
 <hr><p>
-
+    </p>
 </body>
 <h2>Pinball1</h2></p>
 <body><a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
-</body> <head><link rel = "stylesheet" type = "text/css" href="BG.css">
+</body> <head><link rel = "stylesheet" type = "text/css" href="index.css">
 </head><hr>
-<h2>Space Fighter</h2><body><a href="Spacefighter.htm">
+<h2>Space Fighter</h2><body><a href="SPFTR.htm">
 <img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
 <body>
     <p></p><big><font face = "ARIAL" ><p></p><h1>COMING SOON</h1></big><p>CaveSearcher<p>
