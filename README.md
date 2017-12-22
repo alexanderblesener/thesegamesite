@@ -6,7 +6,7 @@
 <img src="" alt="" style="float:right;width:120px;height:120px;">
 <body>
     
-<style> .vl {border-left: 22px solid black; height:1200px;}</style>
+<style> .vl {border-right: 22px solid black; height:1200px;}</style>
 <div class="vl">
 <body background="backgroundgrey.png">
     
