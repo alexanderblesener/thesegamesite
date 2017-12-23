@@ -5,15 +5,15 @@
     <title>THESEGAMES</title></head><small>copyright</small>
 <img src="" alt="" style="float:right;width:120px;height:120px;">
 <body>
-   
+    <style type = "text/css">
+        .style1 {
+        margin-right:100px;
+        }<.style
 <style> .vl {border-right: 22px solid black; height:1200px;}</style>
 <div class="vl">
     
 <body background="backgroundgrey.png">
-  <style type = "text/css">
-        .style1 {
-        margin-right:75px;
-        }<.style>
+ >
 <p><h1><big><big><font face="PALATINO" color="black">THESE GAMES</font></big></big></h1>
 </p>
 <p>
