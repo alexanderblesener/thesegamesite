@@ -13,7 +13,7 @@
 <p><h1><big><big><font face="PALATINO" color="black">&emsp;&emsp;THESE GAMES</font></big></big></h1>
 </p>
 <p></p>
-<style> .hl {border-left:1330px solid black; height: 22px;}</style><div class="hl"></div>
+<style> .hl {border-left:1430px solid black; height: 22px;}</style><div class="hl"></div>
 <font face="GEORGIA" color="black">&emsp;Development & Creation for your personal enjoyment through UnityEngine. 
 <p> We hope you like playing THESE GAMES! </p>
 <font face = "ARIAL" color = "WHITE"><fieldset><legend>HELPFUL HINT</legend><font face = "ARIAL" color = "BLACK"> 
@@ -40,7 +40,7 @@ IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 </body></body><p></p><body><p></p><hr>
     </body>
 
-<style> .hl1 {border-left:1330px solid black; height: 32px;}</style><div class="hl1"></div>
+<style> .hl1 {border-left:1430px solid black; height: 32px;}</style><div class="hl1"></div>
 
 <fieldset>
 <center><font face = "SANS-SERIF" color = "BLACK">If there are any suggestions, comments, concerns, or requests
