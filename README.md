@@ -8,7 +8,7 @@
     <style type = "text/css">
         .style1 {
         margin-right:300px;
-        }<.style
+        }</style>
 <style> .vl {border-right: 22px solid black; height:1200px;}</style>
 <div class="vl">
     
