@@ -19,7 +19,7 @@
 <p>
 <style> .hl {border-left:1330px solid black; height: 22px;}</style><div class="hl"></div>
 <font face="GEORGIA" color="black">&emsp;Development & Creation for your personal enjoyment through UnityEngine. 
-<p> We hope you like playing THESE GAMES! </p></p>
+<p> We hope you like playing THESE GAMES! </p>
 <font face = "ARIAL" color = "WHITE"><fieldset><legend>HELPFUL HINT</legend><font face = "ARIAL" color = "BLACK"> 
 IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 </fieldset>
