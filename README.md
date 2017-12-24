@@ -2,7 +2,7 @@
 
 <head>
     <title>THESEGAMES</title></head><small>copyright</small>
-<a href="https://www.amazon.com/dp/B078KN1K3X"><img border="2" src="goodreads.png" alt="goodreads" style="float:right;width:80px;height:60px;"></a>
+<a href="https://www.amazon.com/dp/B078KN1K3X"><img border="2" src="goodreads.png" alt="goodreads" style="float:right;width:180px;height:120px;"></a>
 <body>
     <style type = "text/css">
         .style1 {
@@ -39,8 +39,7 @@ IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 <body>
     <p></p><big><font face = "ARIAL" ><p></p><h1>COMING SOON</h1></big><p>CaveSearcher<p>
 Pinballversion2</div></p></p>
-<p></p><hr><center><big><h1>SHORT STORIES</h1></big></center><body><center>
-<a href="shortstory1.htm"><img border="2" alt="shortstory1" src ="shortstory1.png" width="800" height ="120"></a></center>
+<p></p>
 </body></body><p></p><body><p></p><hr>
     </body>
 
