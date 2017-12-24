@@ -27,13 +27,13 @@ IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
 <body><a href="thesegamesite/Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
-<hr><p>
+<p>
     </p>
 </body>
 <h2>Pinball1</h2></p>
 <body><a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
 </body> <head><link rel = "stylesheet" type = "text/css" href="index.css">
-</head><hr>
+</head>
 <h2>Space Fighter</h2><body><a href="SPFTR.htm">
 <img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
 <body>
