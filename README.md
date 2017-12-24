@@ -20,9 +20,6 @@
 <style> .hl {border-left:1330px solid black; height: 22px;}</style><div class="hl"></div>
 <font face="GEORGIA" color="black">&emsp;Development & Creation for your personal enjoyment through UnityEngine. 
 <p> We hope you like playing THESE GAMES! </p>
-<font face = "ARIAL" color = "WHITE"><fieldset><legend>HELPFUL HINT</legend><font face = "ARIAL" color = "BLACK"> 
-IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
-</fieldset>
 <p>
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
@@ -37,7 +34,7 @@ IF GAME CONTENT DOES NOT LOAD RIGHT AWAY TRY OUR SITE ON FIREFOX.
 <h2>Space Fighter</h2><body><a href="SPFTR.htm">
 <img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
 <body>
-    <p></p><big><font face = "ARIAL" ><p></p><h1>COMING SOON</h1></big><p>CaveSearcher<p>
+    <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>CaveSearcher<p>
 Pinballversion2</div></p></p>
 <p></p>
 </body></body><p></p><body><p></p><hr>
