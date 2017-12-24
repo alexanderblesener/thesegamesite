@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang = "en-us">
 
 <head>
@@ -9,12 +8,12 @@
         .style1 {
         margin-left:-100px;
         }</style>
-<style> .vl {border-right: 22px solid black; height:1200px;}
+<style>
     .vl {border-left: 22px solid black; height: 1200px;} </style>
 <div class="vl">
     
 <body background="backgroundgrey.png">
- >
+
 <p><h1><big><big><font face="PALATINO" color="black">THESE GAMES</font></big></big></h1>
 </p>
 <p>
