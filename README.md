@@ -23,7 +23,7 @@
 <p>
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
-<body><a href="thesegamesite/Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
+<body><a href="Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
 <p>
     </p>
 </body>
@@ -31,7 +31,7 @@
 <body><a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
 </body> <head><link rel = "stylesheet" type = "text/css" href="index.css">
 </head>
-<h2>Space Fighter</h2><body><a href="SPFTR.htm">
+<h2>Space Fighter</h2><body><a href="Spacefighter.htm">
 <img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
 <body>
     <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>CaveSearcher<p>
