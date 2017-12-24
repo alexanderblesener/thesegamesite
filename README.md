@@ -2,7 +2,7 @@
 
 <head>
     <title>THESEGAMES</title></head><small>copyright</small>
-<img src="" alt="" style="float:right;width:120px;height:120px;">
+<a href="https://www.amazon.com/dp/B078KN1K3X"><img border="2" src="goodreads.png" alt="goodreads" style="float:right;width:120px;height:120px;"></a>
 <body>
     <style type = "text/css">
         .style1 {
