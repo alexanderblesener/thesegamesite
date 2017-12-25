@@ -6,7 +6,7 @@
 <body>
     <style type = "text/css">
         .style1 {
-        margin-left:-100px;
+        margin-left:5px;
         }</style>
 <style>
     .vl {border-left: 22px solid black; height: 1200px;} </style>
