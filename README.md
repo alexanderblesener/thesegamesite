@@ -37,8 +37,7 @@
     <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>CaveSearcher</p>
 Pinballversion2
 <p></p>
-</body></body></div><p></p><body><p></p><hr>
-    </body>
+</body></div></body><p></p><p></p><hr>
 
 <style> .hl1 {border-left:1330px solid black; height: 32px;}</style><div class="hl1"></div>
 
@@ -52,7 +51,7 @@ Pinballversion2
 <style> .hl1 {border-left:1330px solid black; height: 22px;}</style><div class="hl1">
 </div>
 <center><h3><a href = "aboutus.htm">ABOUT US</a></h3></center>
-<font face = "TIMES NEW ROMAN" color = "white"><center><h3>Privacy Policy</h3></center>
+<center><font face = "TIMES NEW ROMAN" color = "white"><h3>Privacy Policy</h3></center>
 None of you're data is stored by accessing this site. We do not store any of your personal data. If you have sent us a suggestion, comment, concern, or request, none of you're personal data is used or stored. If you have been asked to share any personal data or information by THESEGAMES or any of it's affiliates, say no. We do not require your data for this site. Our site is for your personal entertainment ONLY. 
 </p>
 <p></p><center><h3>Terms & Conditions</h3></center>
