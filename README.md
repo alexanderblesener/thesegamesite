@@ -47,13 +47,13 @@ Pinballversion2</div></p></p>
  please leave them in the comments below:</center><p></p>
 <center><form action = "mail.php" method = "post"><div>
 <textarea  name = "comments" id = "comments" style = "font-family:sans-serif;font-size:1.2em;">
-...</textarea></div><input type="submit" value="comment"></form></p></body></div>
+    </textarea></div><input type="submit" value="comment"></form></div></p></body>
 </fieldset></center>
 <style> .hl1 {border-left:1330px solid black; height: 22px;}</style><div class="hl1">
 </div>
 <center><h3><a href = "aboutus.htm">ABOUT US</a></h3></center>
-<center><h3><font face = "TIMES NEW ROMAN" color = "white">Privacy Policy</h3>
-None of you're data is stored by accessing this site. We do not store any of your personal data. If you have sent us a suggestion, comment, concern, or request, none of you're personal data is used or stored. If you have been asked to share any personal data or information by THESEGAMES or any of it's affiliates, say no. We do not require your data for this site. Our site is for your personal entertainment ONLY. </center>
+<font face = "TIMES NEW ROMAN" color = "white"><center><h3>Privacy Policy</h3></center>
+None of you're data is stored by accessing this site. We do not store any of your personal data. If you have sent us a suggestion, comment, concern, or request, none of you're personal data is used or stored. If you have been asked to share any personal data or information by THESEGAMES or any of it's affiliates, say no. We do not require your data for this site. Our site is for your personal entertainment ONLY. 
 </p>
 <p></p><center><h3>Terms & Conditions</h3></center>
 <center>We may modify these Terms, for any reason at any time, by posting a new version on Our Website; these changes do not affect rights and obligations that arose prior to such changes.The contents of this site, including All copyright, trade marks, design rights, patents, Site software, design, artwork, illustrations, Applications, and other intellectual property rights in and on THESEGAMES belongs to THESEGAMES and/or third parties, and any of their successors and assigns, and any of their respective licensors, Advertisers, suppliers, and operational service providers and are legally protected, without limitation, under U.S. Federal and State laws, regulations and treaties. On notice, we will act to remove content on the Site that infringes the copyrights of others. THESEGAMES reserves all of its rights. Nothing in the Terms grants you a right or license to use any trade mark, design right or copyright owned or controlled by THESEGAMES or any other third party except as expressly provided. 
