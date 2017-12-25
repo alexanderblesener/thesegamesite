@@ -34,10 +34,10 @@
 <h2>Space Fighter</h2><body><a href="Spacefighter.htm">
 <img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
 <body>
-    <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>CaveSearcher<p>
-Pinballversion2</div></p></p>
+    <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>CaveSearcher</p>
+Pinballversion2
 <p></p>
-</body></body><p></p><body><p></p><hr>
+</body></body></div><p></p><body><p></p><hr>
     </body>
 
 <style> .hl1 {border-left:1330px solid black; height: 32px;}</style><div class="hl1"></div>
