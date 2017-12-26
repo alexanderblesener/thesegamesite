@@ -1,7 +1,17 @@
 <html lang = "en-us">
 
 <head>
-    <title>THESEGAMES</title></head><small>copyright</small>
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111559017-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-111559017-1');
+</script>
+
+    
+   <title>THESEGAMES</title></title><small>copyright</small>
 <a href="https://www.amazon.com/dp/B078KN1K3X"><img border="2" src="goodreads.png" alt="goodreads" style="float:right;width:280px;height:100px;" ></a>
 <body>
     <style type = "text/css">
