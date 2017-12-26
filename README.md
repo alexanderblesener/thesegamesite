@@ -47,8 +47,8 @@
     <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>CaveSearcher</p>
 Pinballversion2
 <p></p>
-</body></div></body><p></p><p></p><hr>
-</body>
+<p></p><p></p><hr>
+
 <style> .hl1 {border-left:1330px solid black; height: 32px;}</style><div class="hl1"></div>
 <body>
 <fieldset>
