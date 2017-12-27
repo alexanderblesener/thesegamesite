@@ -8,11 +8,12 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-111559017-1');
-</script> google-site-verification: google889ef3135a3273ea.html
-    <meta name="keywords" content="free,online,games,thesegames,videogames,entertainment">
-    <meta name="owner" content="Alexander Blesener">
-    <meta name="description" content="free online games for your personal enjoyment">
-    <meta name="revision" content="lastmodified: 2017-12-27">
+</script>
+<meta name="google-site-verification" content="yjHml9lkftCJ1raEbsypdUbs3PPt6Ij8lSahk4y_WQ4" />
+    <meta name="keywords" content="free,online,games,thesegames,videogames,entertainment"/>
+    <meta name="owner" content="Alexander Blesener"/>
+    <meta name="description" content="free online games for your personal enjoyment"/>
+    <meta name="revision" content="lastmodified: 2017-12-27"/>
    <title>THESEGAMES</title><small>copyright</small>
 <a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position:absolute;right:220px;top:105px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
 <body>
