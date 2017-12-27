@@ -3,6 +3,7 @@
 
 <head>
     <title>THESEGAMES</title></head><small>copyright</small>
+    <meta name="google-site-verification" content="yjHml9lkftCJ1raEbsypdUbs3PPt6Ij8lSahk4y_WQ4" />
 <img src="" alt="" style="float:right;width:120px;height:120px;">
 <body>
     
