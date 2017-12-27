@@ -8,10 +8,9 @@
   gtag('js', new Date());
 
   gtag('config', 'UA-111559017-1');
-</script>
-
+</script> 
     
-   <title>THESEGAMES</title></title><small>copyright</small>
+   <title>THESEGAMES</title><small>copyright</small>
 <a href="https://www.amazon.com/dp/B078KN1K3X"><img border="2" src="goodreads.png" alt="goodreads" style="float:right;width:280px;height:100px;" ></a>
 <body>
     <style type = "text/css">
@@ -19,7 +18,8 @@
         margin-left:5px;
         }</style>
 <style>
-    .vl {border-left: 22px solid black; height: 1200px;} </style>
+    .vl {border-right: 22px solid black; height: 1200px;} 
+  </style>
 <div class="vl">
     
 <body background="backgroundgrey.png">
@@ -56,7 +56,7 @@ Pinballversion2
  please leave them in the comments below:</center><p></p>
 <center><form action = "mail.php" method = "post"><div>
 <textarea  name = "comments" id = "comments" style = "font-family:sans-serif;font-size:1.2em;">
-  </textarea></div><input type="submit" value="comment"></form><p></p></body>
+  </textarea></div><input type="submit" value="comment"></form><p></p>
 </center>
 <style> .hl1 {border-left:1330px solid black; height: 22px;}</style><div class="hl1">
 </div>
