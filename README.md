@@ -16,11 +16,8 @@
     <meta name="revision" content="lastmodified: 2017-12-27"/>
    <title>THESEGAMES</title><small>copyright</small> </head>
 <a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position:absolute;right:220px;top:105px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
-<body>
-    <style type = "text/css">
-        .style1 {
-        margin-left:5px;
-        }</style>
+
+    
 <style>
     .vl {border-right: 22px solid black; height: 1200px;} 
   </style>
@@ -37,17 +34,17 @@
 <p>
 <h1>GAMES</h1><p>
 <h2>Bluba</h2></p>
-<body><a href="Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
+<a href="Bluba.htm"><img border="5" alt="Bluba" src ="sprite3.png" width="150" height ="120"></a>
 <p>
     </p>
-</body>
+
 <h2>Pinball1</h2></p>
-<body><a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
-</body> <head><link rel = "stylesheet" type = "text/css" href="index.css">
-</head>
-<h2>Space Fighter</h2><body><a href="Spacefighter.htm">
-<img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a></body>
-<body>
+<a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
+
+
+<h2>Space Fighter</h2><a href="Spacefighter.htm">
+<img border="5" alt = "spacefighter" src="spacefighter.png" width="150" height = "120"></a>
+
     <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>CaveSearcher</p>
 Pinballversion2
 <p></p>
@@ -62,4 +59,5 @@ None of you're data is stored by accessing this site. We do not store any of you
 <p></p><center><h3>Terms & Conditions</h3></center>
 <center>We may modify these Terms, for any reason at any time, by posting a new version on Our Website; these changes do not affect rights and obligations that arose prior to such changes.The contents of this site, including All copyright, trade marks, design rights, patents, Site software, design, artwork, illustrations, Applications, and other intellectual property rights in and on THESEGAMES belongs to THESEGAMES and/or third parties, and any of their successors and assigns, and any of their respective licensors, Advertisers, suppliers, and operational service providers and are legally protected, without limitation, under U.S. Federal and State laws, regulations and treaties. On notice, we will act to remove content on the Site that infringes the copyrights of others. THESEGAMES reserves all of its rights. Nothing in the Terms grants you a right or license to use any trade mark, design right or copyright owned or controlled by THESEGAMES or any other third party except as expressly provided. 
 </center>
-
+</body>
+</html>
