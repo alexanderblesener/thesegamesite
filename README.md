@@ -14,7 +14,7 @@
     <meta name="description" content="free online games for your personal enjoyment">
     <meta name="revision" content="lastmodified: 2017-12-27">
    <title>THESEGAMES</title><small>copyright</small>
-<a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position:absolute;right:200px;top:120px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
+<a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position:absolute;right:220px;top:105px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
 <body>
     <style type = "text/css">
         .style1 {
