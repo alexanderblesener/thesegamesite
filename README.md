@@ -11,7 +11,7 @@
 </script> 
     
    <title>THESEGAMES</title><small>copyright</small>
-<a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position::fixed;right:0px;top:100px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
+<a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position:fixed;right:0px;top:100px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
 <body>
     <style type = "text/css">
         .style1 {
