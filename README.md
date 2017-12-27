@@ -1,4 +1,4 @@
-<html lang = "en-us">
+<html>
 
 <head>
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111559017-1"></script>
@@ -63,3 +63,4 @@ None of you're data is stored by accessing this site. We do not store any of you
 <center>We may modify these Terms, for any reason at any time, by posting a new version on Our Website; these changes do not affect rights and obligations that arose prior to such changes.The contents of this site, including All copyright, trade marks, design rights, patents, Site software, design, artwork, illustrations, Applications, and other intellectual property rights in and on THESEGAMES belongs to THESEGAMES and/or third parties, and any of their successors and assigns, and any of their respective licensors, Advertisers, suppliers, and operational service providers and are legally protected, without limitation, under U.S. Federal and State laws, regulations and treaties. On notice, we will act to remove content on the Site that infringes the copyrights of others. THESEGAMES reserves all of its rights. Nothing in the Terms grants you a right or license to use any trade mark, design right or copyright owned or controlled by THESEGAMES or any other third party except as expressly provided. 
 </center>
 
+</html>
