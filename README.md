@@ -9,9 +9,12 @@
 
   gtag('config', 'UA-111559017-1');
 </script> 
-    
+    <meta name="keywords" content="free,online,games,thesegames,videogames,entertainment">
+    <meta name="owner" content="Alexander Blesener">
+    <meta name="description" content="free online games for your personal enjoyment">
+    <meta name="revision" content="lastmodified: 2017-12-27">
    <title>THESEGAMES</title><small>copyright</small>
-<a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position:fixed;right:0px;top:100px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
+<a href="https://www.amazon.com/dp/B078KN1K3X"><img style="position:fixed;right:100px;top:100px;width:280px;height:100px;" border="2" src="goodreads.png" alt="goodreads"  ></a>
 <body>
     <style type = "text/css">
         .style1 {
