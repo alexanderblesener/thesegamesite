@@ -49,15 +49,6 @@ Pinballversion2
 <p></p>
 <p></p><p></p><hr>
 
-<style> .hl1 {border-left:1330px solid black; height: 32px;}</style><div class="hl1"></div>
-<body>
-<fieldset>
-<center><font face = "SANS-SERIF" color = "BLACK">If there are any suggestions, comments, concerns, or requests
- please leave them in the comments below:</center><p></p>
-<center><form action = "mail.php" method = "post"><div>
-<textarea  name = "comments" id = "comments" style = "font-family:sans-serif;font-size:1.2em;">
-  </textarea></div><input type="submit" value="comment"></form><p></p>
-</center>
 <style> .hl1 {border-left:1330px solid black; height: 22px;}</style><div class="hl1">
 </div>
 <center><h3><a href = "aboutus.htm">ABOUT US</a></h3></center>
