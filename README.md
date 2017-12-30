@@ -54,7 +54,7 @@ Pinballversion2
 <p></p><p></p><hr>
 
 <style> .hl1 {border-left:1330px solid black; height: 22px;}</style><div class="hl1">
-</div><body>
+</div>
 <center><h3><a href = "aboutus.htm">ABOUT US</a></h3></center>
 <font face = "TIMES NEW ROMAN" color = "white">
   <p></p><center><h3><a href = "">Privacy Policy</a></h3></center>
