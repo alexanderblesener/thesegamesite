@@ -5,7 +5,7 @@
 "asmCodeUrl": "CaveSearchGL.asm.code.unityweb",
 "asmMemoryUrl": "CaveSearchGL.asm.memory.unityweb",
 "asmFrameworkUrl": "CaveSearchGL.asm.framework.unityweb",
-"TOTAL_MEMORY": 204472320,
+"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
