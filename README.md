@@ -54,7 +54,7 @@ Pinballversion2</div></p></p>
 </div>
 <center><h3><a href = "aboutus.htm">ABOUT US</a></h3></center>
 <font face = "TIMES NEW ROMAN" color = "white">
-<center>Privacy Policy</center>
+<center><h3>Privacy Policy</h3></center>
 None of you're data is stored by accessing this site. We do not store any of your personal data. If you have sent us a suggestion, comment, concern, or request, none of you're personal data is used or stored. If you have been asked to share any personal data or information by THESEGAMES or any of it's affiliates, say no. We do not require your data for this site. Our site is for your personal entertainment ONLY. </center>
 </p>
 <p></p><center><h3>Terms & Conditions</h3></center>
