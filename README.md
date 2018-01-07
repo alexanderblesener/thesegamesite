@@ -15,7 +15,7 @@
     <meta name="description" content="free online games for your personal enjoyment"/>
     <meta name="revision" content="lastmodified: 2017-12-27"/>
    <title>THESEGAMES</title><small>copyright</small> </head>
-<a href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=The+Dark+%26+Dire+Self-Conscious&rh=i%3Aaps%2Ck%3AThe+Dark+%26+Dire+Self-Conscious"><img style="position:absolute;right:220px;top:105px;width:400px;height:100px;" border="2" src="CSTAppS.png" alt="goodreads"  ></a>
+<img style="position:absolute;right:220px;top:105px;width:400px;height:100px;" border="2" src="CSTAppS.png" alt="goodreads"  >
 
     
 <style>
