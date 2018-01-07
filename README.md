@@ -15,7 +15,7 @@
     <meta name="description" content="free online games for your personal enjoyment"/>
     <meta name="revision" content="lastmodified: 2017-12-27"/>
    <title>THESEGAMES</title><small>copyright</small> </head>
-<img style="position:absolute;right:220px;top:105px;width:400px;height:100px;" border="2" src="CSTAppS.png" alt="goodreads"  >
+<img style="position:absolute;right:220px;top:105px;width:400px;height:75px;" border="2" src="CSTAppS.png" alt="goodreads"  >
 
     
 <style>
@@ -48,8 +48,7 @@
 <h2>Cave Searcher</h2><a href="cavesearch.html">
   <img border="5" alt="cavesearcher" src="cave.png" width="150" height = "120"></a>
   
-    <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>Bluba: mobile</p>
-Pinballversion2
+    <p></p><font face = "ARIAL" ><p></p><h1><big>COMING SOON</big></h1><p>BlubaDefender (AppStore)</p>
 <p></p>
 <p></p><p></p><hr>
 
