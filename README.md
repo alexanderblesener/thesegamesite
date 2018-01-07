@@ -39,7 +39,7 @@
     </p>
 
 <h2>Pinball1</h2></p>
-<a href="Pinball1.htm"><img border="5" alt ="Pinball1" src="flipper.png" width="150" height="120"></a>
+<a href="Pinball1.htm"><img border="5" alt ="Pinball" src="flipper.png" width="150" height="120"></a>
 
 
 <h2>Space Fighter</h2><a href="Spacefighter.htm">
