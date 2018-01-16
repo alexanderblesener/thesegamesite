@@ -14,7 +14,7 @@
     <meta name="owner" content="Alexander Blesener"/>
     <meta name="description" content="free online games for your personal enjoyment"/>
     <meta name="revision" content="lastmodified: 2017-12-27"/>
-   <title>THESEGAMES</title><small>copyright</small> </head>
+   <title>THESEGAMES</title></head>
 <img style="position:absolute;right:220px;top:105px;width:400px;height:75px;" border="2" src="CSTAppS.png" alt="goodreads"  >
 
     
